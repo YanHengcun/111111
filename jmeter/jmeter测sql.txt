@@ -1,0 +1,27 @@
+Jmeter笔记 JDBC Request使用
+https://www.imooc.com/article/21205
+
+jmeter 性能测试 JDBC Request （查询数据库获取数据库数据） 的使用
+https://www.cnblogs.com/0201zcr/archive/2016/03/15/5280090.html
+
+jmeter 测试数据库步骤:
+
+1:首先在测试计划上面右键==-添加线程
+2:在线程组上面点击右键----添加----JDBC
+3:在线程组上面点击右键==添加----JDBC-config
+4:添加参看结果数
+5:在测试计划上面导入 jar包
+
+
+jmeter 测试数据库步骤:
+
+1:首先在测试计划上面右键==-添加线程
+2:在线程组上面点击右键----添加----JDBC
+3:在线程组上面点击右键==添加----JDBC-config
+4:添加参看结果数
+5:在测试计划上面导入 jar包
+
+URL: jdbc:mysql://localhost:3306/test
+驱动: com.mysql.jdbc.Driver
+
+

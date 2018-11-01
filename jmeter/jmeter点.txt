@@ -1,0 +1,13 @@
+1，jmeter进行接口测试(get,post,上传图片)，断言，自定义变量，关联，全局，参数化，jdbc request参数化，压测分析，agent(监控结果),定时器，jmeter+badboy录制脚本，搭建jmeter+ant+jenkins持续集成的接口自动化测试框架。
+
+2,结合项目场景整理操作jmeter思路。
+
+
+
+
+
+
+
+
+
+
